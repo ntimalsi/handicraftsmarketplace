@@ -1,0 +1,7 @@
+{
+  "name": "nischalapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
